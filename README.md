@@ -1,4 +1,4 @@
-# 🏎️ YKAA-SCRAP ♻️
+# 🔩  YKAA-SCRAP 
 
 ### ✨Features
 * 📍 **Interactive Points** – Just pull up, press [E], and get to work.

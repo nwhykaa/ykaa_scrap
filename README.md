@@ -9,7 +9,7 @@ Simple Scrap Vehicle Script
 
 ## ⚙️ How to use
  - Drive a car to the scrapyard.
- - Use the interaction (E or Target) on the vehicle.
+ - Use the interaction (E) on the vehicle.
  - Wait for the progress bar to finish.
 -  Receive scrap items in your inventory.
 

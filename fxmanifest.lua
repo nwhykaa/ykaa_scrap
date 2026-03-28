@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'ykaa'
-description 'Scraping Vehicle Script'
+description 'Simple Scrap Vehicle Script'
 version '1.0.0'
 
 lua54 'yes'

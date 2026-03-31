@@ -16,3 +16,6 @@ Simple Scrap Vehicle Script
 ## 📋 Depencies
 - es_extended
 - ox_lib
+
+#👀Preview
+https://streamable.com/9f8fyo

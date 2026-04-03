@@ -6,4 +6,4 @@ Config.ScrapDistance = 20.0
 Config.ScrapTime = 10000 
 
 Config.DispatchChance = 100
-Config.Joby = { 'police', 'lssd' }
+Config.Jobs = { 'police', 'lssd' }

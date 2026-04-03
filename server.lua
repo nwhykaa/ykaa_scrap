@@ -20,7 +20,7 @@ AddEventHandler('ykaa_scrap:giveItem', function(coords)
 
         if math.random(1, 100) <= Config.DispatchChance then
             TriggerClientEvent('cd_dispatch:AddNotification', -1, {
-                job_table = Config.Joby,
+                job_table = Config.Jobs,
                 coords = coords,
                 title = "10-83 - Scrapping Vehicle",
                 message = "Suspicious activity has been reported at the junkyard!", 
